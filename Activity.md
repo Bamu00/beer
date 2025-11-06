@@ -38,5 +38,5 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:layout_margin="90dp"
-        android:text="Денисюк, Карпова, Лукошкин"
+        android:text="Денисюк, Карпова, Лукошкин" />
 </LinearLayout>
